@@ -1,0 +1,76 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="FitnessLifestyle.com" resolutions="1x" timestamp="1573221091929">
+  <folder name="css">
+    <file name="site_global.css" crc="362073735"/>
+    <file name="master_a-master.css" crc="4202026595" ref="sobre:index:atividades:contato"/>
+    <file name="sobre.css" crc="273489770" ref="sobre"/>
+    <file name="index.css" crc="214993176" ref="index"/>
+    <file name="atividades.css" crc="3940813979" ref="atividades"/>
+    <file name="contato.css" crc="295675139" ref="contato"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:atividades:sobre:contato"/>
+    <file name="museutils.js" crc="340535759" ref="index:atividades:sobre:contato"/>
+    <file name="whatinput.js" crc="86476730" ref="index:atividades:sobre:contato"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:atividades:sobre:contato"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:atividades:sobre:contato"/>
+    <file name="require.js" crc="7928878" ref="index:atividades:sobre:contato"/>
+    <file name="webpro.js" crc="4059564322" ref="contato"/>
+    <file name="form_check.php" crc="4020933626" ref="contato"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contato"/>
+    <file name="form_process.php" crc="37464564" ref="contato"/>
+    <file name="form-u530.php" crc="3933081303" ref="contato"/>
+  </folder>
+  <folder name="images">
+    <file name="fitness_logo.svg" crc="4191553814" seo="true" ref="index:atividades:sobre:contato">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="sobre" alt=""/>
+      <caption webpage="atividades" alt=""/>
+      <caption webpage="atividades" alt=""/>
+    </file>
+    <file name="fitness_logo_poster_.png" crc="4008247525" ref="index"/>
+    <file name="img_banner1-crop-u219.jpg" crc="290791830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_quad1.jpg" crc="119397945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_quad2.jpg" crc="460786049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_quad4.jpg" crc="4117010076" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_quad3.jpg" crc="135282611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_alongamento.jpg" crc="189742509" seo="true" ref="atividades">
+      <caption webpage="atividades" alt=""/>
+    </file>
+    <file name="img_zumba.jpg" crc="220071528" seo="true" ref="atividades">
+      <caption webpage="atividades" alt=""/>
+    </file>
+    <file name="img_powertraining.jpg" crc="460504423" seo="true" ref="atividades">
+      <caption webpage="atividades" alt=""/>
+    </file>
+    <file name="img_powerstep.jpg" crc="3953022521" seo="true" ref="atividades">
+      <caption webpage="atividades" alt=""/>
+    </file>
+    <file name="img_banner2.jpg" crc="153715059" seo="true" ref="sobre">
+      <caption webpage="sobre" alt=""/>
+    </file>
+    <file name="img_banner3-crop-u523.jpg" crc="26330536" seo="true" ref="contato">
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="fitness_localização.jpg" crc="460086986" seo="true" ref="contato">
+      <caption webpage="contato" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3994240736" seo="true" mt="1573221020083" redirect="true"/>
+  <file name="atividades.html" crc="50473671" seo="true" mt="1573220890884" redirect="true"/>
+  <file name="sobre.html" crc="3856764159" seo="true" mt="1560472298271" redirect="true"/>
+  <file name="contato.html" crc="47744961" seo="true" mt="1560486784181" redirect="true"/>
+</manifest>
